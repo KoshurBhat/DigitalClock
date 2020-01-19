@@ -16,6 +16,9 @@
 		751BC86523D3D07B00B952F4 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 751BC86423D3D07B00B952F4 /* main.m */; };
 		751BC86F23D3D07B00B952F4 /* DigitalClockTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 751BC86E23D3D07B00B952F4 /* DigitalClockTests.m */; };
 		751BC87A23D3D07B00B952F4 /* DigitalClockUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 751BC87923D3D07B00B952F4 /* DigitalClockUITests.m */; };
+		751BC88823D3DFD400B952F4 /* digital-7.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 751BC88723D3DFD400B952F4 /* digital-7.ttf */; };
+		751BC88923D3DFD400B952F4 /* digital-7.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 751BC88723D3DFD400B952F4 /* digital-7.ttf */; };
+		751BC88A23D3DFD400B952F4 /* digital-7.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 751BC88723D3DFD400B952F4 /* digital-7.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,6 +57,7 @@
 		751BC87523D3D07B00B952F4 /* DigitalClockUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DigitalClockUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		751BC87923D3D07B00B952F4 /* DigitalClockUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DigitalClockUITests.m; sourceTree = "<group>"; };
 		751BC87B23D3D07B00B952F4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		751BC88723D3DFD400B952F4 /* digital-7.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "digital-7.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -115,6 +119,7 @@
 				751BC86023D3D07B00B952F4 /* LaunchScreen.storyboard */,
 				751BC86323D3D07B00B952F4 /* Info.plist */,
 				751BC86423D3D07B00B952F4 /* main.m */,
+				751BC88723D3DFD400B952F4 /* digital-7.ttf */,
 			);
 			path = DigitalClock;
 			sourceTree = "<group>";
@@ -243,6 +248,7 @@
 				751BC86223D3D07B00B952F4 /* LaunchScreen.storyboard in Resources */,
 				751BC85F23D3D07B00B952F4 /* Assets.xcassets in Resources */,
 				751BC85D23D3D07A00B952F4 /* Main.storyboard in Resources */,
+				751BC88823D3DFD400B952F4 /* digital-7.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -250,6 +256,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				751BC88923D3DFD400B952F4 /* digital-7.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -257,6 +264,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				751BC88A23D3DFD400B952F4 /* digital-7.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
